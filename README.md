@@ -1,5 +1,5 @@
 # cholera-prediction
-Subnational Cholera Analysis in Yemen
+## Subnational Cholera Analysis in Yemen
 ***
 This repository contains Python code to analyze public health data related to the current cholera epidemic in Yemen. 
 
